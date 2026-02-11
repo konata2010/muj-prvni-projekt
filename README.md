@@ -22,3 +22,4 @@ Učím se pracovat s:
 ## Kontakt
 
 Vytvořil/a: [Denys Tsymbal](https://github.com/konata2010)
+[index.html](https://github.com/konata2010/muj-prvni-projekt/blob/main/index.html)
