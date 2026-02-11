@@ -21,4 +21,4 @@ Učím se pracovat s:
 
 ## Kontakt
 
-Vytvořil/a: [Vaše jméno](https://github.com/VASE-USERNAME)
+Vytvořil/a: [Denys Tsymbal](https://github.com/konata2010)
